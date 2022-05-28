@@ -1,10 +1,10 @@
 <?php
 
-namespace Quarterloop\TechStackTile\Commands;
+namespace Geronyy\TechStackTile\Commands;
 
 use Illuminate\Console\Command;
-use Quarterloop\TechStackTile\Services\TechStackAPI;
-use Quarterloop\TechStackTile\TechStackStore;
+use Geronyy\TechStackTile\Services\TechStackAPI;
+use Geronyy\TechStackTile\TechStackStore;
 
 class FetchTechStackCommand extends Command
 {
