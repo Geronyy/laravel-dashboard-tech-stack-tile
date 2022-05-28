@@ -1,6 +1,6 @@
 <?php
 
-namespace Quarterloop\TechStackTile;
+namespace Geronyy\TechStackTile;
 
 use Spatie\Dashboard\Models\Tile;
 
