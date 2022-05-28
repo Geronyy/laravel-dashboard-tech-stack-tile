@@ -1,10 +1,10 @@
 <?php
 
-namespace Quarterloop\TechStackTile;
+namespace Geronyy\TechStackTile;
 
 use Illuminate\Support\ServiceProvider;
 use Livewire\Livewire;
-use Quarterloop\TechStackTile\Commands\FetchTechStackCommand;
+use Geronyy\TechStackTile\Commands\FetchTechStackCommand;
 
 class TechStackTileServiceProvider extends ServiceProvider
 {
