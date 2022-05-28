@@ -1,6 +1,6 @@
 <?php
 
-namespace Quarterloop\TechStackTile\Services;
+namespace Geronyy\TechStackTile\Services;
 
 use Illuminate\Support\Facades\Http;
 
