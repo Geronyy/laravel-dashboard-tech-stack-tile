@@ -1,17 +1,17 @@
 {
-    "name": "quarterloop/laravel-dashboard-tech-stack-tile",
+    "name": "geronyy/laravel-dashboard-tech-stack-tile",
     "description": "A tech stack tile for the Laravel Dashboard",
     "keywords": [
         "quarterloop",
         "laravel-dashboard-tech-stack-tile"
     ],
-    "homepage": "https://github.com/quarterloop/laravel-dashboard-tech-stack-tile",
+    "homepage": "https://github.com/geronyy/laravel-dashboard-tech-stack-tile",
     "license": "MIT",
     "authors": [
         {
             "name": "Gero Wallisch",
-            "email": "wallisch@skouz.de",
-            "homepage": "https://skouz.de",
+            "email": "info@gerowallisch.com",
+            "homepage": "gerowallisch.com",
             "role": "Developer"
         }
     ],
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Quarterloop\\TechStackTile\\": "src"
+            "Geronyy\\TechStackTile\\": "src"
         }
     },
     "scripts": {
@@ -36,7 +36,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Quarterloop\\TechStackTile\\TechStackTileServiceProvider"
+                "Geronyy\\TechStackTile\\TechStackTileServiceProvider"
             ]
         }
     },
